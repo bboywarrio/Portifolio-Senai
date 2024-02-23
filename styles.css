@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(.25turn, #211221,10%,#111121) ;
+}
+
+header {
+    background: linear-gradient(to bottom, #D6CCC3, #b9758fc6); /* Degradê vertical */
+    color: #f2204a; /* Cor do texto do cabeçalho */
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
+.nome {
+    margin: 2px;
+   opacity: 0.9;
+    
+}
+
+nav {
+    
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #E5E3E1; /* Cor dos links no cabeçalho */
+    text-decoration: none;
+    margin-right: 20px;
+    opacity: 1; /* Adiciona opacidade aos links */
+    
+}
+
+nav a:hover {
+    text-decoration: none; /* Remove a decoração de sublinhado */
+    color: #ffd700; /* Nova cor ao passar o mouse (dourado) */
+    opacity: 0.8; /* Nova opacidade ao passar o mouse */
+
+    /* Adiciona sombra ao link */
+    box-shadow: 0 0 10px rgba(234, 223, 19, 0.479); /* Sombra com efeito de borrão */
+}
+
+main {
+    padding: 20px;
+    text-align: justify; /* Alinha o texto justificado */
+}
+
+.section {
+    margin-bottom: 30px;
+    color: #D6CCC3
+}
+
+.section h2 {
+    margin-top: 40px;
+    color: #dc7114; /* Cor do título da seção */
+}
+
+.section p {
+    margin-bottom: 10px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.4;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Linkedin */
+  .fa-linkedin {
+    background: #55ACEE;
+    color: white;
+  }
+
+  /* Instagram */
+  .fa-instagram{
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  }
+  .fa-github {
+    background: #010409;
+    color: white;
+  }
+
+ main img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+footer {
+    background: linear-gradient(.25turn, #211221,10%,#0c0c1894) ; /* Cor de fundo do rodapé */
+    padding: 10px;
+    text-align: center;
+}
+
+footer h2 {
+    color: #E5E3E1; /* Cor do título do rodapé */
+    margin-bottom: 10px; /* Espaçamento inferior do título */
+}
+footer ul  {
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+    list-style-type: none; /* Remove os marcadores da lista */
+    padding: 5px;
+}
+
+footer ul a  {
+    color: #dfc4c4; /* Cor dos links do rodapé */
+    text-decoration: none; /* Remove a decoração de sublinhado */
+    transition: color 0.4s; /* Adiciona uma transição suave de cor */
+    margin-right: 30px;
+}
+
+
+footer ul a:hover{
+    color: #ffd700; /* Nova cor ao passar o mouse (dourado) */
+    
+}
+footer  img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    transition: opacity 0.3s;
+}
+ /* Definindo a opacidade padrão */
+ footer img:hover {
+    opacity: 0.2; /* Opacidade quando o mouse passa por cima */
+}
