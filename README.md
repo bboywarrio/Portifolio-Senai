@@ -1,28 +1,36 @@
-Portfólio do Projeto de Estudo Front-End - SENAI Maracanã
-Este é o projeto de portfólio desenvolvido como parte do curso de Front-End do SENAI Maracanã. O portfólio tem como objetivo demonstrar as habilidades adquiridas durante o curso e servir como um showcase de projetos e experiências.
+# Portfólio Victor Miguel - Senai Maracanã
 
-Tecnologias Utilizadas
-HTML5
-CSS3
-JavaScript
-Estrutura do Projeto
-O projeto está estruturado da seguinte forma:
+Este é o meu portfólio desenvolvido durante os estudos no Senai Maracanã, onde estou aprendendo front-end e outras tecnologias relacionadas.
 
-index.html: Arquivo principal contendo a estrutura do portfólio.
-styles.css: Arquivo de estilos CSS para estilizar a página.
-imagens/: Pasta contendo as imagens utilizadas no portfólio.
-Funcionalidades
-Apresentação de informações pessoais.
-Links para redes sociais.
-Seções para experiências profissionais, formação acadêmica e cursos extracurriculares.
-Showcase de projetos no GitHub.
-Sobre o Desenvolvedor
-Victor Miguel é um estudante de Front-End em busca de aprimoramento contínuo em suas habilidades de desenvolvimento web. Este projeto reflete seu progresso e interesse na área de tecnologia da informação.
+## Conteúdo
 
-Como Contribuir
-Se você tiver sugestões de melhorias ou encontrar problemas no projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Todas as contribuições são bem-vindas!
+O portfólio inclui as seguintes seções:
 
-Contato
-Para entrar em contato com o desenvolvedor ou saber mais sobre seus projetos, você pode visitar seu perfil no GitHub: bboywarrio.
+- **Redes Sociais:** Links para minhas redes sociais.
+- **Carreira:** Informações sobre minha carreira e objetivos profissionais.
+- **Experiências Profissionais:** Detalhes sobre meus estágios e trabalhos anteriores.
+- **Formação Acadêmica:** Detalhes sobre minha formação na Faculdade Estácio de Sá.
+- **Cursos Extracurriculares:** Lista dos cursos que realizei fora da minha formação acadêmica.
+- **Projetos no GitHub:** Links para alguns dos meus projetos hospedados no GitHub.
 
-Este projeto é uma iniciativa de aprendizado e desenvolvimento pessoal. Agradeço por visitar meu portfólio! 🚀
+## Como Visualizar
+
+Para visualizar o portfólio, basta abrir o arquivo `index.html` em qualquer navegador da web.
+
+## Tecnologias Utilizadas
+
+O portfólio foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- Font Awesome (para os ícones das redes sociais)
+- GitHub Pages (para hospedar o portfólio online)
+
+## Autor
+
+Victor Miguel da Silva
+
+---
+
+
+
